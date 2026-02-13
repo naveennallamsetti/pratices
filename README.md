@@ -1,0 +1,2 @@
+# pratices
+git pratices
